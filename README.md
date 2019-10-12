@@ -40,7 +40,7 @@ __direct chat__
   
 __search history with blocked users__  
 
-![__search history with blocked users__](img/search_02.jpg)
+![__search history with blocked users__](img/search.jpg)
   
 
 __block list__  
