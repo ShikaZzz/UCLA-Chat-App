@@ -37,10 +37,6 @@ __direct chat__
 ![__direct chat__](img/direct_msg.jpg)
   
 
-__search history__  
-
-![__search history__](img/search.jpg)
-
   
 __search history with blocked users__  
 
